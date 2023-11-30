@@ -1,8 +1,8 @@
-Welcome to my dbt project!
+# Welcome to my dbt project!
 
-### Using the starter project
+### Executing the project
 
-Try running the following commands:
+Configure your Snowflake connection then, try running the following commands:
 - dbt run
 - dbt test
 
